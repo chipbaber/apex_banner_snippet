@@ -1,6 +1,6 @@
 ## Code Snippets for APEX Banner Image Creation Video
 
-- Banner images in this example should be 1920x320. Please see the /imgs folder for examples. 
+- Banner images in this example should be 1920x320. Please see the example images in git repo. 
 
 - Core HTML Code
 
